@@ -4,7 +4,7 @@ Donate link: http://www.mynakedgirlfriend.de/donate-spenden/
 Tags: image, logo, glider, hacker, emblem, game, life, conway, community, hacking
 Requires at least: 2.9
 Tested up to: 3.2.1
-Stable tag: 0.9.1
+Stable tag: 0.9.2
 
 This plugin presents the official hacker emblem on your blog so you can show your sympathy with the goals and values of hackers and their lifestyle.
 
@@ -40,12 +40,18 @@ Sure, it is. Just put the following PHP code into your template and you're done:
 
 == Changelog ==
 
+= 0.9.2 =
+* Just a small bug in the initial release.
+
 = 0.9.1 =
 * This is the first released version.
 
 
 
 == Upgrade Notice ==
+
+= 0.9.2 =
+* None.
 
 = 0.9.1 =
 * None.
