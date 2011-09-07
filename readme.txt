@@ -28,7 +28,7 @@ It's possible to use a widget in the sidebar or you can just put it the shortcod
 
 = Is it possible to use the plugin in one of my templates? =
 Sure, it is. Just put the following PHP code into your template and you're done:
-<?php if(function_exists(display_glider_logo())) { display_glider_logo(); } ?>
+&lt;?php if(function_exists(display_glider_logo())) { display_glider_logo(); } &gt;>
 
 
 

@@ -1,7 +1,7 @@
 <?php
 /*
 Plugin Name: Glider Universal Hacker Emblem
-Plugin URI: http://www.mynakedgirlfriend.de/
+Plugin URI: http://www.mynakedgirlfriend.de/wordpress/glider/
 Description: This plugin presents the official hacker emblem on your blog so you can show your sympathy with the goals and values of hackers and their lifestyle.
 Author: Thomas Schulte
 Version: 0.9.1
